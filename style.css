@@ -1,0 +1,114 @@
+body {
+    background-image: url(".idea/images/background.jpg");
+}
+#plans .custom_list{
+        margin-top: 25px;
+}
+
+#plans h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#plans .col-md-6{
+    margin-top: 45px;
+}
+
+#plans #plans_1{
+    border:3px solid #bc4749;
+    border-bottom-right-radius: 40px;
+    height: 350px;
+    width: 300px;
+    font-weight: bolder;
+}
+
+#plans #plans_2{
+    border:3px solid #bc4749;
+    border-bottom-right-radius: 40px;
+    height: 350px;
+    width: 300px;
+    font-weight: bolder;
+}
+
+#navig .navbar-brand{
+    font-weight: bolder;
+    font-size: 30px;
+    color: #fff;
+}
+
+#navig .navbar{
+    position: fixed;
+    width: 100%;
+}
+
+#intro .btnn{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 150px;
+}
+
+#intro .btnn2{
+    font-size: 60px;
+    font-weight: bolder;
+    transition: .3s;
+}
+
+#intro .btnn2:hover{
+    color: #bc4749;
+    cursor: pointer;
+}
+
+#ads .row{
+    font-weight: bold;
+    font-size: 35px;
+    background-color: #bc4749;
+    border-bottom-right-radius: 45px;
+    margin: 100px;
+    padding: 55px;
+}
+
+#ads p{
+    text-align: left;
+    font-weight: 350;
+}
+
+#ads h2{
+    text-align: left;
+}
+
+#tchr .col-md-4{
+    margin: 70px;
+}
+
+#bttn .su{
+    border: 3px solid #bc4749;
+    border-radius: 40px;
+    background-color: #bc4749;
+    transition: .3s;
+    margin: 45px;
+}
+
+#bttn .su:hover{
+    background-color: #bc2020;
+    cursor: pointer;
+}
+
+#tchr h2{
+    text-align: left;
+}
+
+#tchr p{
+    text-align: left;
+}
+
+#tchr .custom_list_3{
+    border:3px solid #bc4749;
+    border-radius: 40px;
+    background-color: #bc4749;
+    transition: .3s;
+}
+
+#tchr .custom_list_3:hover{
+    background-color: #bc2020;
+    cursor: pointer;
+}
